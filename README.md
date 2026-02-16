@@ -3,6 +3,8 @@
 **Check out my other repositories**:
 Изменение
 Другое изменение
+Изменение для работы
+Ещё изменение для коммита
 
 - [Backend best practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development.
 - [System Design Patterns](https://github.com/Sairyss/system-design-patterns) - list of topics and resources related to distributed systems, system design, microservices, scalability and performance, etc.
