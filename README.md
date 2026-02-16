@@ -11,6 +11,7 @@
 и еще
 последнее
 изменение 7
+изменение 8
 ---
 
 The main emphasis of this project is to provide recommendations on how to design software applications. This readme includes techniques, tools, best practices, architectural patterns and guidelines gathered from different sources.
